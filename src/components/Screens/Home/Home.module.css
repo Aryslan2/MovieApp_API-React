@@ -1,0 +1,14 @@
+.wrapper {
+	min-height: 100vh;
+	background-color: #021C1E;
+	max-width: 3000px;
+	min-width: 360px;
+  margin: 0 auto;
+}
+
+.movies {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-wrap: wrap;
+}
